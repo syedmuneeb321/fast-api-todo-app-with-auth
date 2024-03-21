@@ -1,0 +1,9 @@
+.env*
+test.db
+__pycache__
+.mypy_cache
+.mypy_cache
+.test..__pycache__
+.Model.__pycache__
+.Service.__pycache__
+.Utils.__pycache__
